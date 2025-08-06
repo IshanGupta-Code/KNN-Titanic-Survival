@@ -39,6 +39,19 @@ Install them via pip if needed:
     ├── KNN-Titanic.py
     └── titanic.csv
 
+## Sample Output
+
+Upon running the script, you might see results like:
+
+    Best K: 11
+    Accuracy: 0.8101
+
+    Confusion Matrix:
+    [[86 16]
+    [16 51]]
+
+A heatmap of the confusion matrix will also be displayed.
+
 ## Customization
 
 - To use a different dataset, adjust the file path in the script.
