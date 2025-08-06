@@ -1,4 +1,3 @@
-"""
 # KNN-based Titanic Survival Prediction
 
 This project applies a K-Nearest Neighbors (KNN) classifier to predict survival on the Titanic using the Titanic dataset. It involves preprocessing, feature engineering, hyperparameter tuning, and model evaluation with visualization.
@@ -52,4 +51,3 @@ This project is for educational purposes.
 ---
 
 Made with ❤️ for Machine Learning practice!
-"""
