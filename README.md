@@ -57,10 +57,6 @@ A heatmap of the confusion matrix will also be displayed.
 - To use a different dataset, adjust the file path in the script.
 - Modify the feature engineering section to experiment with other features.
 
-## License
-
-This project is for educational purposes.
-
 ---
 
 Made with ❤️ for Machine Learning practice!
